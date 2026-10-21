@@ -1,0 +1,7 @@
+github_users:
+  - xudong-ma
+
+repo_description_lines_max: 2
+
+github_repos:
+  - xudong-ma/WBCBench2026-Robust-White-Blood-Cell-Classification

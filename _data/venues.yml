@@ -1,0 +1,19 @@
+"ISBI":
+  url: https://biomedicalimaging.org/
+  color: "#0b6e4f"
+
+"ICIP":
+  color: "#00629b"
+
+"EUSIPCO":
+  url: https://eurasip.org/
+  color: "#7a3e9d"
+
+"MIUA":
+  color: "#b5523b"
+
+"arXiv":
+  color: "#b31b1b"
+
+"PPAP":
+  color: "#5b6770"

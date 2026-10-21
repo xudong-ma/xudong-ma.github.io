@@ -1,0 +1,4 @@
+# Co-author name -> homepage links. Keys are lowercase last names as they appear in papers.bib.
+"achim":
+  - firstname: ["Alin", "A."]
+    url: https://bristol.ac.uk/people/person/Alin-Achim-a515a426-727d-480b-8d4e-a4a756d6d8f9
