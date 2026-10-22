@@ -25,7 +25,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a Postdoctoral Research Fellow at the University of Oxford, working with Prof. Bartek Papież and [Prof. Manisha Nair](https://www.ndph.ox.ac.uk/team/manisha-nair) on AI for medical imaging. My current work focuses on **echocardiography analysis**, including image quality assessment, pathology detection and learning from multi-rater annotations, as well as large-scale imaging studies in the **UK Biobank**.
+I am a Postdoctoral Research Fellow at the University of Oxford, working with [Prof. Bartek Papież](https://www.bdi.ox.ac.uk/team/bartek-papiez) and [Prof. Manisha Nair](https://www.ndph.ox.ac.uk/team/manisha-nair) (University of Oxford and University of Copenhagen) on AI for medical imaging. My current work focuses on **echocardiography analysis**, including image quality assessment, pathology detection and learning from multi-rater annotations, as well as large-scale imaging studies in the **UK Biobank**.
 
 I received my PhD from the [University of Bristol](https://www.bristol.ac.uk/), supervised by [Prof. Alin Achim](https://bristol.ac.uk/people/person/Alin-Achim-a515a426-727d-480b-8d4e-a4a756d6d8f9) and [Prof. Nantheera Anantrasirichai](https://www.bristol.ac.uk/people/person/Pui-Anantrasirichai-49b2250e-53e4-4631-aedc-8154b2cff568/). My PhD research covered prostate MR–ultrasound image translation and registration with diffusion models, 3D freehand ultrasound reconstruction, and unsupervised image fusion. Before that, I obtained a Master of Information Technology (with Distinction) from the [University of Melbourne](https://www.unimelb.edu.au/).
 
